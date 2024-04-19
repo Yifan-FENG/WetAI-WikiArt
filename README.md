@@ -1,2 +1,1 @@
 # WetAI-WikiArt
-# WetAI-WikiArt

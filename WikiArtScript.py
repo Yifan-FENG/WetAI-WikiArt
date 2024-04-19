@@ -3,8 +3,8 @@ import requests, os
 
 BASE_URL = "http://www.wikiart.org"
 ENDPOINT = "/en/App/Painting/PaintingsByArtist"
-ACCESS_KEY = '6ba7d09c7a5a46ee'
-SECRET_KEY = 'a3be64ef638bde92'
+ACCESS_KEY = ' ' # Please replace with your own access key
+SECRET_KEY = ' '
 
 def authenticate():
     """Authenticate with the WikiArt API and return a session key."""
